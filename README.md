@@ -101,3 +101,7 @@
         <li>Parametros requeridos: id</li>
     </ul>
 </ul>
+
+<p>LAS PRUEBAS DEL API FUERON ECHAS EN POSTMAN</p>
+![image](https://user-images.githubusercontent.com/50346377/157767267-f3768e6f-10e5-4fc1-9a9b-571578034a5a.png)
+
